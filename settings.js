@@ -45,6 +45,7 @@ global.creator = "916909137213@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
+global.wait = 'hey how are u'
 
 //media target
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
